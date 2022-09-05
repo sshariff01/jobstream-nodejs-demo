@@ -1,4 +1,4 @@
-import Jobstream from "jobify";
+import Jobstream from "jobstream-queue-engine";
 import path from 'path';
 import url from 'url';
 
